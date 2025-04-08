@@ -323,7 +323,6 @@ button {
   display: flex;
   gap: 24px;
   justify-content: center;
-  margin-bottom: 32px;
 }
 
 .team-soc-link {
@@ -469,7 +468,6 @@ button {
 }
 
 .footer-logo {
-  padding: 24px 0;
   margin-bottom: 16px;
   display: inline-block;
 }
@@ -497,7 +495,7 @@ button {
 }
 
 .footer-soc {
-  display: flex;
+  display: block;
   align-items: baseline;
   gap: 24px;
 }
